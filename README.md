@@ -1,4 +1,4 @@
-Hi 👋 My name is Robert
+Hi 👋 My name is Robert Dominguez
 ============================
 
 Software Developer
