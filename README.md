@@ -8,7 +8,7 @@ Software Developer
 * 🖥️  See my portfolio at [My Portfolio](https://robdom87.github.io/)
 * ✉️  You can contact me at [dominguezr.marq@gmail.com](mailto:dominguezr.marq@gmail.com)
 * 🧠  I'm learning GraphQL
-- 🔭 I’m currently working on something interesting with AI...
+* 🔭 I’m currently working on something interesting with AI...
 
 ### Skills
 
