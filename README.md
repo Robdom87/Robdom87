@@ -1,4 +1,4 @@
-Hey, I'm a software developer
+Hey, Check out my stuff.
 ============================
 
 * ✉️  You can contact me at [dominguezr.marq@gmail.com](mailto:dominguezr.marq@gmail.com)
